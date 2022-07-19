@@ -5,7 +5,7 @@ Unity3D学习路线、Unity3D视频教程、Unity3D+B站视频整合、Unity3D�
 
 ## 学习路线
 
-![学习路线](https://www.processon.com/view/link/62d66a8fe0b34d7623b8971d)
+![学习路线](http://assets.processon.com/chart_image/62d3721e5653bb2b401fcc69.png)
 
 ### **1、 C#编程**
 
@@ -93,7 +93,7 @@ Unity引擎，也就是Unity这个软件了，它是Unity Technologies公司开�
 
 ## 资源合集
 
-![资源整理导图](https://www.processon.com/view/link/62d67c0e6376893c9d061291)
+![资源整理导图](http://assets.processon.com/chart_image/62cfc5b8e0b34d06d3a4c807.png)
 
 **结合图片通过目录检索食用更佳！！！**
 
