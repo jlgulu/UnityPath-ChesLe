@@ -73,7 +73,15 @@ Unity引擎，也就是Unity这个软件了，它是Unity Technologies公司开�
 
  
 
-### 三、 综合版教程推荐
+### 三、Unity项目框架
+
+[Unity 游戏框架搭建 2019 第一季 C# 核心知识与简易 Manager Of Managers 框架搭建 - SiKi学院 - 生命不息，学习不止！ (sikiedu.com)](https://www.sikiedu.com/course/319/reviews)
+
+
+
+[Unity资源热更及代码热更 - SiKi学院 - 生命不息，学习不止！ (sikiedu.com)](https://www.sikiedu.com/course/429?ref=relatedCourseSets)
+
+### 四、 综合版教程推荐
 
 [史上最全Unity3D教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV12s411g7gU?spm_id_from=333.337.search-card.all.click&vd_source=730631402fc0d83715b7a4f1e1dc85c2)
 
