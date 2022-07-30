@@ -1,5 +1,5 @@
 # Unity 3D 学习路线 + 资源合集
-**版本号：1.0               更新时间：2020-07-30               作者：ChesLe**
+**版本号：1.0；更新时间：2020-07-30 ；作者：ChesLe**
 
 Unity3D学习路线、Unity3D视频教程、Unity3D+B站视频整合、Unity3D面试题、Unity3D开源项目、Unity3D书籍推荐、一份涵盖大部分Unity工程师所需要掌握的核心知识，面试求职找工作，来这里，你不会后悔。以后会不断升级...
 
@@ -7,9 +7,7 @@ Unity3D学习路线、Unity3D视频教程、Unity3D+B站视频整合、Unity3D�
 
 ## 学习路线
 
-![](C:\Users\83558\Desktop\Unity3D 学习路线图谱-导出 (1).png)
-
-
+![Unity3D 学习路线图谱](C:\Users\83558\Desktop\Unity3D 学习路线图谱.png)
 
 ------
 
