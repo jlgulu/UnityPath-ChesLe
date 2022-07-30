@@ -201,7 +201,7 @@ Unity3D学习路线、Unity3D视频教程、Unity3D+B站视频整合、Unity3D�
 
 ### 二、书籍
 
-12、[《Unity神技达人炼成记——成为游戏世界的造物主：无需编程创造全新游戏世界（全彩印刷）》 - 当当图书](http://product.dangdang.com/27867144.html)
+12、[《Unity神技达人炼成记——成为游戏世界的造物主：无需编程创造全新游戏世界》 - 当当图书](http://product.dangdang.com/27867144.html)
 
 13、[《Unity 3D脚本编程与游戏开发》(马遥 沈琰) - 当当图书](http://product.dangdang.com/29233674.html)
 
