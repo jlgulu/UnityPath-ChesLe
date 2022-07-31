@@ -171,7 +171,7 @@ Unity3D学习路线、Unity3D视频教程、Unity3D+B站视频整合、Unity3D�
 
 ## 资源合集
 
-【资源合集检索图在线地址】：http://assets.processon.com/chart_image/62cfc5b8e0b34d06d3a4c807.png
+【资源合集检索图在线地址】：https://www.processon.com/view/link/62d67c0e6376893c9d061291
 
 ![资源合集检索图](http://assets.processon.com/chart_image/62cfc5b8e0b34d06d3a4c807.png)
 
