@@ -7,7 +7,9 @@ Unity3D学习路线、Unity3D视频教程、Unity3D+B站视频整合、Unity3D�
 
 ## 学习路线
 
-![](Unity3D 学习路线图谱-16591722204972.png)
+【Unity 3D学习图谱】在线地址：https://www.processon.com/view/link/62e620151e0853070699dfb3
+
+![Unity 3D学习图谱](http://assets.processon.com/chart_image/62e61c605653bb0716174765.png)
 
 ------
 
@@ -169,7 +171,9 @@ Unity3D学习路线、Unity3D视频教程、Unity3D+B站视频整合、Unity3D�
 
 ## 资源合集
 
-![资源合集检索图](资源合集检索图.png)
+【资源合集检索图在线地址】：https://www.processon.com/view/link/62d67c0e6376893c9d061291
+
+![资源合集检索图](http://assets.processon.com/chart_image/62cfc5b8e0b34d06d3a4c807.png)
 
 <center style="color:#C0C0C0;text-decoration">通过图片检索下方资源</center>
 
