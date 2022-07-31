@@ -7,7 +7,7 @@ Unity3D学习路线、Unity3D视频教程、Unity3D+B站视频整合、Unity3D�
 
 ## 学习路线
 
-![Unity3D 学习路线图谱](../../../Desktop/Unity3D 学习路线图谱.png)
+![](Unity3D 学习路线图谱-16591722204972.png)
 
 ------
 
@@ -169,7 +169,7 @@ Unity3D学习路线、Unity3D视频教程、Unity3D+B站视频整合、Unity3D�
 
 ## 资源合集
 
-![资源合集检索图](../../../Desktop/资源合集检索图.png)
+![资源合集检索图](资源合集检索图.png)
 
 <center style="color:#C0C0C0;text-decoration">通过图片检索下方资源</center>
 
